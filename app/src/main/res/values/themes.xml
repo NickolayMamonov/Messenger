@@ -6,6 +6,7 @@
         <item name="colorPrimaryDark">@color/colorPrimary</item>
         <item name="colorAccent">@color/colorAccent</item>
         <item name="android:colorBackground">@color/colorAccent</item>
+        <item name="popupTheme">@style/actionMenu</item>
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryDark</item>
 
         <!-- MaterialDrawer specific values -->
@@ -22,5 +23,6 @@
         <item name="material_drawer_header_selection_subtext">@color/material_drawer_dark_header_selection_subtext</item>
         <item name="material_drawer_legacy_style">false</item> <!-- Enables legacy Material 1 style -->
     </style>
+
 
 </resources>
